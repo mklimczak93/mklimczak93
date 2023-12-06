@@ -26,12 +26,16 @@ After 5 years I have decided to pursue a major change in my career – I moved b
 
 ![Flexfit_preview_04](https://github.com/mklimczak93/mklimczak93/assets/123643355/6a02de36-05f0-4efd-94c8-f60dd6b5ee9c)
 
+
 #### MinWin - minimalistic vintage furniture booking app
 ![Minwin_preview_04](https://github.com/mklimczak93/mklimczak93/assets/123643355/22679873-1de9-486e-b847-4111937e0028)
 
 ![Minwin_preview_03](https://github.com/mklimczak93/mklimczak93/assets/123643355/d4514a49-bd1f-4575-89ca-ae6d6dc6ce86)
 
 ![Minwin_preview_01](https://github.com/mklimczak93/mklimczak93/assets/123643355/edd3ef29-1a9e-4b1b-8944-70ecf209d44f)
+
+
+
 
 
 
