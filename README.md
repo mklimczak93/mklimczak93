@@ -1,6 +1,4 @@
-## Magdalena Klimczak
-
----
+# Magdalena Klimczak
 
 Hi, I’m Magda – an architect turned web developer. 
 
@@ -8,9 +6,7 @@ Originally, I have education and experience in architecture and in this field I 
 
 After 5 years I have decided to pursue a major change in my career – I moved back to Poland and sacrificed as much time as I could to dive deep into a new field: web development. During that time I have finished two major online courses which were a catalyst for further independent exploration of the field, and brought back the joy of learning I once had. Right now I am pursuing two more courses focusing on bettering my skills of JavaScript and React, but also trying to use my previous experience of design thinking, technical aptitude and finding symbiotic solutions for complex problems in the newly chosen field.
 
----
-
-### Skills
+# Skills
 - Javascript
 - React
 - Python
