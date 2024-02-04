@@ -22,8 +22,8 @@ After 5 years I have decided to pursue a career change - I moved back  to PL to 
 # Check out my projects
 
 #### WineCellar – a virtual cellar for saving your favorite wines - MERN stack
-![WineCellarMovie - cellar](https://github.com/mklimczak93/mklimczak93/assets/123643355/f649320a-2c91-4a2a-b96d-2237e48ec9be)
-<img src="![WineCellarMovie - cellar](https://github.com/mklimczak93/mklimczak93/assets/123643355/f649320a-2c91-4a2a-b96d-2237e48ec9be)" width="100%" height="auto"/>
+
+<img src="https://github.com/mklimczak93/mklimczak93/assets/123643355/f649320a-2c91-4a2a-b96d-2237e48ec9be" width="100%" height="auto"/>
 
 <img src="![WineCellarMovie - profile](https://github.com/mklimczak93/mklimczak93/assets/123643355/49bb67e2-50d9-4451-85c8-1eb90bb1f953)" width="100%" height="auto"/>
 
