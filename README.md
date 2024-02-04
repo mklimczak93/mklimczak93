@@ -9,17 +9,28 @@ After 5 years I have decided to pursue a major change in my career – I moved b
 # Skills
 - Javascript
 - React
+- Node.js / Express.js
+- MongoDB
+- HTML
+- CSS
 - Python
 - Django
-- HTML
-- CSS/SASS
 - SQL
 - Figma
 - Adobe
 
 # Check out my projects
 
-#### FlexFit - flexible fitness classes booking app
+#### WineCellar – a virtual cellar for saving your favorite wines - MERN stack
+
+![WineCellarMovie - cellar](https://github.com/mklimczak93/mklimczak93/assets/123643355/f649320a-2c91-4a2a-b96d-2237e48ec9be)
+
+![WineCellarMovie - profile](https://github.com/mklimczak93/mklimczak93/assets/123643355/49bb67e2-50d9-4451-85c8-1eb90bb1f953)
+
+![WineCellarMovie - wine details](https://github.com/mklimczak93/mklimczak93/assets/123643355/135daf94-35eb-42ef-bfdc-98524d456c86)
+
+
+#### FlexFit - flexible fitness classes booking app - Django
 
 ![Flexfit_preview_01](https://github.com/mklimczak93/mklimczak93/assets/123643355/fa87bd5e-a828-4538-be1b-62225532b111)
 
@@ -28,7 +39,7 @@ After 5 years I have decided to pursue a major change in my career – I moved b
 ![Flexfit_preview_04](https://github.com/mklimczak93/mklimczak93/assets/123643355/6a02de36-05f0-4efd-94c8-f60dd6b5ee9c)
 
 
-#### MinWin - minimalistic vintage furniture booking app
+#### MinWin - minimalistic vintage furniture booking app - Django
 
 ![Minwin_preview_01](https://github.com/mklimczak93/mklimczak93/assets/123643355/edd3ef29-1a9e-4b1b-8944-70ecf209d44f)
 
