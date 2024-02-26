@@ -29,6 +29,8 @@ After 5 years I have decided to pursue a career change - I moved back  to PL to 
 
 <img src="https://github.com/mklimczak93/mklimczak93/assets/123643355/135daf94-35eb-42ef-bfdc-98524d456c86" width="70%" height="auto"/>
 
+<img src="https://github.com/mklimczak93/the-wine-cellar-public/assets/123643355/998dc42f-78a7-465f-8127-9c74788df22a" width="70%" height="auto"/>
+
 
 #### FlexFit - flexible fitness classes booking app - Django
 
