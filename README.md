@@ -1,23 +1,23 @@
 # Magdalena Klimczak
 
-Hi, I’m Magda – an architect turned web developer. 
-
-For the last 5 years I worked as an architect, both in PL and abroad, on different project phases of various scales and functions, in multi-national teams of specialists of different fields. During that time, I gained experience in not only architectural design, but also in working on complex, multi-level projects that require special amount of attention to detail, creative thinking, negotiations and team-work.
-
-After 5 years I have decided to pursue a career change - I moved back  to PL to learn web dev. Initially, I was using Django, Python and JS (e.g. creating a fitness app with double user interface, allowing for both signing up for and publishing new sport classes). Right now I am focused on bettering my skills of JavaScript and React, building new projects in MERN stack (e.g. wine cellar application for saving one’s favorites wines), but also trying to use my previous experience of design thinking, technical aptitude and finding symbiotic solutions for complex problems in the newly chosen field.
+A dedicated Front-End Developer with 1 year of professional experience, currently working with Angular and experienced in developing responsive and visually engaging web solutions. 
+Previously an architect with extensive experience in interdisciplinary, multicultural teams, I bring a unique blend of technical precision and creative problem-solving to the tech industry. Transitioning into web development through self-driven learning, I have completed numerous online courses and personal projects across diverse stacks, including React with Node.js or Firebase, Python with Django, and Angular. Passionate about creating not only functional but also visually engaging web solutions, I enjoy experimenting with CSS and animation tools like GSAP to enhance user experiences.
 
 # Skills
-- Javascript
-- React
-- Node.js / Express.js
-- MongoDB
-- HTML
-- CSS
-- Python
-- Django
-- SQL
-- Figma
-- Adobe
+- JavaScript, TypeScript,
+- Angular + Angular Material,
+- MERN - React + Node.js + Express.js,
+- MongoDB / Mongoose / Atlas,
+- React Testing Library, Jest,
+- HTML5 + CSS3,
+- Bootstrap, MaterialUI, Tailwind,
+- Chrome Developer Tools,
+- Git,
+- Figma,
+- Adobe (Photoshop, InDesign, Illustrator) + Affnity Designer,
+- English - C2,
+- Polish - native,
+- Dutch - A2.
 
 # Check out my projects
 
