@@ -1,6 +1,6 @@
 # Magdalena Klimczak
 
-A dedicated Full-Stack Developer skilled in building scalable, responsive, and visually engaging web applications. Proficient in modern JavaScript frameworks like Angular and React, with experience in Node.js and Django for backend development. Previously an architect in interdisciplinary teams, I bring technical precision and creative problem-solving to tech. Transitioning into web development, I’ve completed various projects across diverse stacks, including React with Node.js or Firebase, Python with Django, and Angular with Supabase. Passionate about seamless end-to-end solutions, I enjoy optimizing performance and enhancing user experiences with CSS and animation tools like GSAP.
+A dedicated Full-Stack Developer skilled in building scalable, responsive, and visually engaging web applications. Proficient in modern front-end frameworks/libraries like Angular and React, with experience integrating REST APIs, optimizing performance, and working with back-end technologies like Node.js and Django. Previously an architect in interdisciplinary teams, I bring technical precision and creative problem-solving to tech. With hands-on professional experience in development, I have completed various projects across diverse stacks, including React with Node.js or Firebase, Python with Django, and Angular with Supabase. Passionate about seamless end-to-end solutions, I enjoy optimizing performance and enhancing user experiences with CSS and animation tools like GSAP.
 
 # Skills
 - JavaScript, TypeScript,
